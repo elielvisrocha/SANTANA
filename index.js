@@ -119,7 +119,7 @@ function showSlidesTwo(n) {
 }
 
 
-function subirPraCima(x, y) {
+function subirParaCima(x, y) {
   window.scrollBy(x, y)
 }
 
