@@ -1,0 +1,3833 @@
+@media screen and (max-width: 1000px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    justify-content: space-between;
+  }
+
+  main article h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 28rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    width: 79vw;
+    height: 165vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 130vh;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 100%;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 15rem;
+    margin-left: 22.4rem;
+  }
+
+  .bloco-secao-de-servicos {
+    box-sizing: border-box;
+    width: 79vw;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .bloco-secao-de-servicos article  {
+    width: 79vw;
+  }
+
+  .bloco-do-servico {
+    width: 100%;
+  }
+
+  .mySlides img {
+    width: 20rem;
+    height: 20rem;
+  }
+
+  .dot {
+    width: 4rem;
+  }
+
+  .secondMySlides img {
+    width: 20rem;
+    height: 20rem;
+  }
+
+  .dotTwo {
+    width: 4rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    font-size: 1.1rem;
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 8rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 40vw;
+    height: 64vh;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    height: fit-content;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    height: fit-content;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 30rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 50vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    justify-content: space-between;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main article h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 21.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 170vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 35rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 1rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 1rem;
+    margin-top: -1.01rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 1rem;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 15rem;
+    margin-left: 22rem;
+  }
+
+  .bloco-secao-de-servicos {
+    align-items: center;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 33rem;
+  }
+
+  .bloco-do-servico {
+    width: 43.699rem;
+    width: 79vw;
+  }
+
+  .bloco-do-servico p {
+    font-size: 1rem;
+  }
+
+  .mySlides img {
+    width: 16rem;
+    height: 16rem;
+  }
+
+  .dot {
+    width: 2rem;
+  }
+
+  .secondMySlides img {
+    width: 16rem;
+    height: 16rem;
+  }
+
+  .dotTwo {
+    width: 2rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 180vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 35%;
+    height: 27rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 30rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 45vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 8rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 8rem;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    justify-content: space-between;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 18.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 180vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 33rem;
+    border: 2px solid blue;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: -2rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 15rem;
+    margin-left: 15rem;
+  }
+
+  .bloco-secao-de-servicos {
+    align-items: center;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 30rem;
+  }
+
+  .bloco-do-servico {
+    width: 43.699rem;
+    width: 79vw;
+  }
+
+  .bloco-do-servico p {
+    font-size: 1rem;
+  }
+
+  .mySlides img {
+    width: 17rem;
+    height: 17rem;
+  }
+
+  .dot {
+    width: 3rem;
+  }
+
+  .secondMySlides img {
+    width: 17rem;
+    height: 17rem;
+  }
+
+  .dotTwo {
+    width: 3rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 190vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 35%;
+    height: 29rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 9vw;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 30rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    padding: 2rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 45vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 18.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 230vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 79vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside {
+    height: 140vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 20rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 25rem;
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 65vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    margin: 1.5rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 65vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 13rem;
+    margin: 0 auto;
+  }
+
+  .bloco-secao-de-servicos {
+    align-items: center;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 25rem;
+  }
+
+  .bloco-do-servico {
+    width: 43.699rem;
+    width: 79vw;
+  }
+
+  .bloco-do-servico p {
+    font-size: 1rem;
+  }
+
+  .mySlides img {
+    width: 13rem;
+    height: 13rem;
+  }
+
+  .dot {
+    width: 3rem;
+  }
+
+  .secondMySlides img {
+    width: 13rem;
+    height: 13rem;
+  }
+
+  .dotTwo {
+    width: 3rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 80vh;
+    display: flex;
+    flex-flow: column;
+    border: 2px solid blue;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 200vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 35%;
+    height: 32rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 9vw;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 22rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    padding: 2rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 50vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 18.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 140vh;
+    border:2px solid blue;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 40vh;
+    margin-bottom: 4rem;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 75vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside {
+    height:fit-content;
+  }
+
+  .bloco-apresentacao-da-empresa section aside h2 {
+    font-size: 2rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 20rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 23rem;
+    height: 120vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 20rem;
+    width: 50vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 20rem;
+    width: 50vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 13rem;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos img {
+    width: 18rem;
+    height: 13rem;
+  }
+
+  .bloco-secao-de-servicos {
+    align-items: center;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 20rem;
+  }
+
+  .bloco-do-servico {
+    width: 43.699rem;
+    width: 79vw;
+  }
+
+  .bloco-do-servico p {
+    font-size: 0.9rem;
+  }
+
+  .mySlides img {
+    width: 12rem;
+    height: 12rem;
+  }
+
+  .dot {
+    width: 2.5rem;
+  }
+
+  .secondMySlides img {
+    width: 12rem;
+    height: 12rem;
+  }
+
+  .dotTwo {
+    width: 2.5rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 80vh;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 40vw;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 200vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 44%;
+    height: 30rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer {
+    height: 100vh;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+    height: 100vh;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 26vw;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 22rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    height: 30rem;
+    padding: 2rem;
+    background-size: 8rem 30rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .abertura-banner-politica-de-cookies  {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 60vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(4) {
+    display: block;
+    width: 28vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 16rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 18.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 250vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 250vh;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 75vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside h2 {
+    font-size: 2rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 16rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 18rem;
+    height: 130vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 20rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 20rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: -2rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 13rem;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos img {
+    width: 18rem;
+    height: 13rem;
+  }
+
+  .bloco-secao-de-servicos {
+    align-items: center;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 17rem;
+  }
+
+  .bloco-do-servico {
+    width: 43.699rem;
+    width: 79vw;
+    flex-direction: column;
+  }
+
+  .bloco-secao-de-servicos article button + article img {
+    height: 28vh;
+    width: 100%;
+  }
+
+  .bloco-do-servico p {
+    font-size: 0.9rem;
+  }
+
+  .mySlides img {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .dot {
+    width: 1.5rem;
+  }
+
+  .secondMySlides img {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .dotTwo {
+    width: 1.5rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 80vh;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 80vw;
+    height: 25vh;
+    margin: 0 auto;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 2rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais article div {
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais article div a img {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 230vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 100%;
+    height: 22rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer {
+    height: 200vh;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+    height: 100vh;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 79vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 30vh;
+    width: 70vw;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li:nth-child(5) {
+    width: fit-content;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 50vw;
+    height: fit-content;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 0rem;
+    margin-top: 7rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    height: 30rem;
+    padding: 2rem;
+    background-size: 8rem 30rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .abertura-banner-politica-de-cookies  {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 60vh;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.9rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+
+  /* html {
+    overflow-x: none;
+  } */
+
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .titulo {
+    font-size: 1.5rem;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(4) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(5) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 14rem;
+    height: 3rem;
+    padding: 0 0;
+  }
+
+  main aside img {
+    width: 14.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 270vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 270vh;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 75vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside {
+    height: 320vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside h2 {
+    font-size: 1.2rem !important;
+    width: 73vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 13rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 79vw;
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 20rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 20rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: -2rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos  {
+    height: 30vh;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: 0;
+    margin-bottom: 1rem;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 13rem;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos img {
+    width: 14rem;
+    height: 13rem;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 0rem;
+    width: 1rem;
+    height: 1rem;
+    position: relative;
+  }
+
+  .bloco-do-servico {
+    width: 79vw;
+    flex-direction: column;
+  }
+
+  .bloco-secao-de-servicos {
+    height: 40rem;
+    display: flex;
+  }
+
+  .bloco-secao-de-servicos article button + article img {
+    height: 28vh;
+    width: 100%;
+  }
+
+  .bloco-do-servico p {
+    font-size: 0.9rem;
+  }
+
+  .bloco-de-demonstracao-de-servicos {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dot {
+    width: 3.5rem;
+  }
+
+  .secondMySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dotTwo {
+    width: 3.5rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 90vh;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 80vw;
+    height: 25vh;
+    margin: 0 auto;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 1rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais article div a img {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 330vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 100%;
+    height: 32rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer {
+    height: 270vh;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+    height: 270vh;
+    border: 2px solid green;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 79vw;
+    height: 80vh;
+    border: 2px solid yellow;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 100%;
+    border: 2px solid white;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li {
+    display: block;
+    width: 30vw;
+    text-align: center;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li:nth-child(5) {
+    width: fit-content;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 50vw;
+    height: fit-content;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 0rem;
+    margin-top: 7rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    height: 30rem;
+    padding: 2rem;
+    background-size: 8rem 30rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.8rem;
+  }
+
+  .abertura-banner-politica-de-cookies  {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .abertura-banner-politica-de-cookies div .link-informacoes-cookies {
+    margin-top: 1rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: fit-content;
+    width: 90vw;
+    margin: 1rem auto;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.7rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div {
+    width: 90vw;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+
+
+
+
+
+@media screen and (max-width: 300px) {
+
+  /* html {
+    overflow-x: none;
+  } */
+
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .titulo {
+    font-size: 1.5rem;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(4) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(5) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 13rem;
+    height: 3rem;
+    padding: 0 0;
+    margin: 0 auto;
+  }
+
+  main aside img {
+    width: 14.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 250vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 240vh;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 75vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside {
+    height: 150vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside h2 {
+    font-size: 1.5rem;
+    width: 73vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 13rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 75vw;
+    height: 130vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 27rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.9rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 27rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.9rem;
+    margin-top: -2rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: 0;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 13rem;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos img {
+    width: 14rem;
+    height: 13rem;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 0rem;
+    width: 1rem;
+    height: 1rem;
+    position: relative;
+  }
+
+  .bloco-do-servico {
+    width: 79vw;
+    flex-direction: column;
+  }
+
+  .bloco-secao-de-servicos {
+    height: 55rem;
+    display: flex;
+  }
+
+  .bloco-secao-de-servicos article button + article img {
+    height: 28vh;
+    width: 100%;
+  }
+
+  .bloco-do-servico p {
+    font-size: 0.9rem;
+  }
+
+  .bloco-de-demonstracao-de-servicos {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dot {
+    width: 2.2rem;
+  }
+
+  .secondMySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dotTwo {
+    width: 2.2rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 90vh;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 80vw;
+    height: 25vh;
+    margin: 0 auto;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 1rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais article div a img {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 330vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 100%;
+    height: 32rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer {
+    height: 270vh;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+    height: 270vh;
+    border: 2px solid green;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 79vw;
+    height: 80vh;
+    border: 2px solid yellow;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 100%;
+    border: 2px solid white;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li {
+    display: block;
+    width: 30vw;
+    text-align: center;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li:nth-child(5) {
+    width: fit-content;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 50vw;
+    height: fit-content;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 0rem;
+    margin-top: 7rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    height: 30rem;
+    padding: 2rem;
+    background-size: 8rem 30rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.8rem;
+  }
+
+  .abertura-banner-politica-de-cookies  {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .abertura-banner-politica-de-cookies div .link-informacoes-cookies {
+    margin-top: 1rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: fit-content;
+    width: 90vw;
+    margin: 1rem auto;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.7rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div {
+    width: 90vw;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 270px) {
+
+  /* html {
+    overflow-x: none;
+  } */
+
+  .container {
+    width: 79vw;
+
+    box-sizing: border-box;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .titulo {
+    font-size: 1.5rem;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina {
+    padding-left: 0;
+    padding-right: 0;
+    max-height: 60vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li {
+    display: block;
+    width: 25vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(4) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li:nth-child(5) {
+    display: block;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .barra-de-navegacao-do-topo-da-pagina ul li a {
+    font-size: 0.9rem;
+    font-family: "Roboto", sans-serif;
+    color: var(--black);
+    text-decoration: none;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main article h1 {
+    font-size: 1.8rem;
+    line-height: 4rem;
+    text-align: center;
+  }
+
+  main article a.primary {
+    width: 10rem;
+    height: 3rem;
+    padding: 0 0;
+    margin: 0 auto;
+    font-size: 0.8rem;
+  }
+
+  main aside img {
+    width: 10.7rem;
+  }
+
+  .bloco-apresentacao-da-empresa {
+    height: 250vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bloco-apresentacao-da-empresa section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 79vw;
+    height: 240vh;
+  }
+
+  .bloco-apresentacao-da-empresa section img {
+    width: 79vw;
+    height: 80vh;
+    box-sizing: border-box;
+  }
+
+  .bloco-apresentacao-da-empresa aside {
+    height: fit-content;
+    width: 75vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside {
+    height: 190vh;
+  }
+
+  .bloco-apresentacao-da-empresa section aside h2 {
+    font-size: 0.8rem !important;
+    width: 73vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div hr {
+    height: 0rem;
+    width: 8rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.contentinfo {
+    width: 75vw;
+    height: 170vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria {
+    height: 27rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div h3.historia {
+    font-size: 1rem;
+    width: 8rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
+    font-size: 0.7rem;
+    margin-top: 0rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div h3.valores {
+    font-size: 1rem;
+    width: 8rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores {
+    height: 27rem;
+    width: 70vw;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores p {
+    font-size: 0.7rem;
+    margin-top: -2rem;
+  }
+
+  .bloco-apresentacao-da-empresa section aside div.nossosvalores ul li {
+    font-size: 0.9rem;
+  }
+
+  .abertura-da-secao-servicos {
+    height: 70vh;
+  }
+
+  .abertura-da-secao-servicos div {
+    width: 77vw;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos h3 {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: 0;
+  }
+
+  .abertura-da-secao-servicos span {
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .abertura-da-secao-servicos img {
+    width: 9.5rem;
+    height: 10rem;
+    position: absolute;
+    margin: 0 auto;
+  }
+
+  .bloco-apresentacao-do-servico {
+    width: 79vw;
+    height: 10vh;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bloco-apresentacao-do-servico img {
+    margin-left: 0rem;
+    width: 1rem;
+    height: 1rem;
+    position: relative;
+  }
+
+  .bloco-do-servico {
+    width: 79vw;
+    flex-direction: column;
+  }
+
+  .bloco-secao-de-servicos {
+    height: 55rem;
+    display: flex;
+  }
+
+  .bloco-secao-de-servicos article button + article img {
+    height: 28vh;
+    width: 100%;
+  }
+
+  .bloco-do-servico p {
+    font-size: 0.7rem;
+  }
+
+  .bloco-de-demonstracao-de-servicos {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dot {
+    width: 2.2rem;
+  }
+
+  .secondMySlides img {
+    width: 78vw;
+    height: 35vh;
+  }
+
+  .dotTwo {
+    width: 2.2rem;
+  }
+
+  .titulo-descricao-dos-pagamentos {
+    text-align: center;
+    width: 79vw;
+    margin: 0 auto;
+  }
+
+  .apresentacao-dos-meios-de-pagamento {
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure figcaption {
+    font-size: 0.7rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure:first-child figcaption {
+    border: 2px solid red;
+    width: 10rem;
+    height: 4rem;
+    text-align: center;
+    white-space: pre-wrap;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure {
+    font-size: 0.9rem;
+    height: 8rem;
+  }
+
+  .apresentacao-dos-meios-de-pagamento figure img {
+    height: 6rem;
+    width: 7rem;
+  }
+
+  .bloco-apresentacao-de-contatos {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bloco-apresentacao-de-contatos img {
+    width: 80vw;
+    height: 25vh;
+    margin: 0 auto;
+  }
+
+  .bloco-apresentacao-de-contatos aside {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form {
+    height: 100%;
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset {
+    width: 100%;
+  }
+
+  .bloco-apresentacao-de-contatos aside form button.secondary {
+    margin-bottom: 0rem;
+  }
+
+  .bloco-apresentacao-de-contatos aside form fieldset h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais {
+    margin: 1rem auto;
+  }
+
+  .bloco-apresentacao-das-redes-sociais h4 {
+    font-size: 1rem;
+  }
+
+  .bloco-apresentacao-das-redes-sociais article div a img {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  #recomendacoes {
+    margin-top: 7rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2rem auto;
+    margin-top: 5rem;
+    max-width: 76.313rem;
+    box-sizing: border-box;
+    height: 330vh;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article {
+    width: 100%;
+    height: 32rem;
+    padding: 0.625rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(229, 229, 229, 0.9);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article:nth-child(3) {
+    margin: 0 auto;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article img {
+    margin-top: 1.563rem;
+    border-radius: 50%;
+    width: 6.125rem;
+    height: 6.125rem;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article h4 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    color: var(--black);
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div {
+    margin: 2.5rem auto;
+    text-align: justify;
+  }
+
+  .bloco-de-apresentacao-das-recomendacoes article div p {
+    font-size: 0.7rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    color: var(--black);
+  }
+
+  footer {
+    height: 270vh;
+  }
+
+  footer .secao-com-barra-de-navegacao-do-final {
+    width: 79vw;
+    height: 270vh;
+    border: 2px solid green;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 79vw;
+    height: 80vh;
+    border: 2px solid yellow;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 100%;
+    border: 2px solid white;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li {
+    display: block;
+    width: 30vw;
+    text-align: center;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li:nth-child(5) {
+    width: fit-content;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a {
+    font-size: 0.9rem;
+  }
+
+  footer
+    .secao-com-barra-de-navegacao-do-final
+    .barra-de-navegacao-do-final-da-pagina
+    ul
+    li
+    a[href="#contate-nos"] {
+    width: 50vw;
+    height: fit-content;
+    display: block;
+  }
+
+  footer .informacoes-sobre-o-site {
+    width: 79vw;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  footer .informacoes-sobre-o-site aside h5 a {
+    font-size: 0.9rem;
+  }
+
+  .informacoes-sobre-o-site aside button {
+    font-size: 0.9rem;
+  }
+
+  footer .informacoes-sobre-o-site aside:nth-of-type(1) {
+    text-align: center;
+  }
+
+  footer .fechamento-do-footer {
+    width: 79vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .fechamento-do-footer img {
+    margin-left: 0rem;
+    margin-top: 7rem;
+  }
+
+  .conteudo-banner {
+    width: 95vw;
+    height: 30rem;
+    padding: 2rem;
+    background-size: 8rem 30rem;
+  }
+
+  .abertura-banner-politica-de-cookies div {
+    height: 20vh;
+  }
+
+  .abertura-banner-politica-de-cookies h3 {
+    font-size: 1.1rem;
+  }
+
+  .abertura-banner-politica-de-cookies article p {
+    font-size: 0.7rem;
+  }
+
+  .abertura-banner-politica-de-cookies  {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .abertura-banner-politica-de-cookies div .link-informacoes-cookies {
+    margin-top: 1rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: fit-content;
+    width: 90vw;
+    margin: 1rem auto;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies article p {
+    font-size: 0.7rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div {
+    width: 90vw;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:first-child {
+    width: 5rem;
+  }
+
+  .banner-de-aceitar-ou-rejeitar-cookies div button:last-child {
+    width: 5rem;
+  }
+}
