@@ -575,7 +575,6 @@
 
   .bloco-apresentacao-da-empresa section aside div.contentinfo {
     width: 33rem;
-    border: 2px solid blue;
   }
 
   .bloco-apresentacao-da-empresa section aside div.nossahistoria p {
@@ -1038,7 +1037,6 @@
     height: 80vh;
     display: flex;
     flex-flow: column;
-    border: 2px solid blue;
   }
 
   .apresentacao-dos-meios-de-pagamento figure {
@@ -1316,7 +1314,6 @@
     align-items: center;
     width: 79vw;
     height: 140vh;
-    border: 2px solid blue;
   }
 
   .bloco-apresentacao-da-empresa section img {
@@ -2546,13 +2543,12 @@
   }
 
   footer {
-    height: 140vh;
+    height: 150vh;
   }
 
   footer .secao-com-barra-de-navegacao-do-final {
     width: 79vw;
     height: 270vh;
-    border: 2px solid green;
   }
 
   footer
@@ -2563,7 +2559,6 @@
     align-items: center;
     width: 79vw;
     height: 40vh;
-    border: 2px solid yellow;
   }
 
   footer
@@ -2576,7 +2571,6 @@
     flex-wrap: wrap;
     height: 30vh;
     width: 100%;
-    border: 2px solid white;
   }
 
   footer
@@ -2697,7 +2691,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid red;
     height: fit-content;
     width: 90vw;
     margin: 1rem auto;
@@ -3088,7 +3081,6 @@
   footer .secao-com-barra-de-navegacao-do-final {
     width: 79vw;
     height: 270vh;
-    border: 2px solid green;
   }
 
   footer
@@ -3099,7 +3091,6 @@
     align-items: center;
     width: 79vw;
     height: 80vh;
-    border: 2px solid yellow;
   }
 
   footer
@@ -3112,7 +3103,6 @@
     flex-wrap: wrap;
     height: 80vh;
     width: 100%;
-    border: 2px solid white;
   }
 
   footer
@@ -3233,7 +3223,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid red;
     height: fit-content;
     width: 90vw;
     margin: 1rem auto;
